@@ -1,7 +1,7 @@
-Hi, I'm Tobias Ocula
-Interested in coding (specifically Python) and soon will be learning other languages in CS bachelor
-Currently doing bachelor in mathematics
-I will have lots to learn when making different projects (I'm excited)
+Hi, I'm Tobias Ocula.
+I'm interested in coding (specifically Python) and soon will be learning other languages in CS bachelor.
+I'm currently doing bachelor in mathematics.
+I will have lots to learn when making different projects (I'm excited).
 I'm quite new to this so wish me luck :)
 
 <!---
