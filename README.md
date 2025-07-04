@@ -1,8 +1,5 @@
-Hi, I'm Tobias Ocula.
-I'm interested in coding (specifically Python) and soon will be learning other languages in CS bachelor.
-I'm currently doing bachelor in mathematics.
-I will have lots to learn when making different projects (I'm excited).
-I'm quite new to this so wish me luck :)
+I'm a mathematics and CS student (bachelor's), interested in a wide variety of programming / CS applications.
+I have experimented with ML / frontend / web3 applications and will continue to do so.
 
 <!---
 tobiasocula/tobiasocula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
