@@ -1,5 +1,5 @@
-I'm a mathematics and CS student (bachelor's), interested in a wide variety of programming / CS applications.
-I have experience with ML / frontend / web3 applications and actively gaining experience.
+I'm a mathematics and CS student (bachelor's), interested in applied math and related areas.
+In my repositories you will find all sorts of interesting projects and implementations I've been working on.
 
 <!---
 tobiasocula/tobiasocula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
