@@ -3,6 +3,8 @@ In my repositories you will find all sorts of interesting projects and implement
 
 ## Overview of my projects
 
+Below are some small research projects I've undertaken myself of which I'm most proud and which I think are the most interesting.
+
 ### Finance related
 
 #### Deep Q-Learning
@@ -31,11 +33,12 @@ https://github.com/tobiasocula/YetAnotherFinanceProject
 
 #### Weather model simulation using HMM
 
-Small implementation of the Hidden-Markov-Model applied to a simulated weather system, with a few states and transitions. The goal of this project was primarily to learn about the topic, but I also wanted to see how well it performs on this artificial example.
+Small implementation of the Hidden-Markov-Model applied to a simulated weather system, with a few states and transitions. The goal of this project was primarily to learn about the topic, but I also wanted to see how well it performs on this artificial example. I explore both the discrete version, as the version with continuous observation values.
 https://github.com/tobiasocula/Weather-HMM
 
-#### Implementation of Expectation-Maximalization algorithm
+#### Mechanics simulation
 
-This project is fully for educational purposes, and I don't perform any actual research. I wanted to learn about the EM-algorithm, thus I have implemented the most simple case I could come across.
-https://github.com/tobiasocula/simple-EM-coinflip-implementation
+Here I use elementary differential geometry and principles from mechanics to design a playground for objects to roll from physical surfaces and produce some cool effects.
+https://github.com/tobiasocula/Mechanics-Simulations
+
 
